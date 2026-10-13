@@ -1,0 +1,15 @@
+# ── Core & Numerical ──────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Streaming Dashboard & Visualization ───────────────────────────────────────
+streamlit>=1.35.0
+plotly>=5.18.0
+
+# ── Predictive Analytics (Prophet) ────────────────────────────────────────────
+prophet>=1.1.5
+scikit-learn>=1.3.0
+
+# ── Streaming Ingestion & Networking ─────────────────────────────────────────
+requests>=2.31.0
+schedule>=1.2.0

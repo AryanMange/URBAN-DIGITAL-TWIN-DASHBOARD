@@ -1,0 +1,4 @@
+timestamp,zone,domain,severity,message
+2026-10-13 12:38:47,Central Mumbai,Pollution,WARNING,Unhealthy Air Quality: PM2.5 elevated (61.4 µg/m³)
+2026-10-13 12:38:47,Western Suburbs (Andheri),Traffic,WARNING,Congestion buildup: Speed degraded to 23.6 km/h
+2026-10-13 12:38:47,Western Suburbs (Andheri),Pollution,WARNING,Unhealthy Air Quality: PM2.5 elevated (76.4 µg/m³)
